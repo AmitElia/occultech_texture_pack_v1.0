@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "occultech:abyssal"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "occultech:abyssal"
+      }
+    ]
+  }
+}
