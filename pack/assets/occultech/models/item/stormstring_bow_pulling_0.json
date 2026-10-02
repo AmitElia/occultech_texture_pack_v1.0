@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "occultech:item/stormstring_bow_pulling_0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "occultech:item/quillshot_bow_pulling_1"
+  }
+}
