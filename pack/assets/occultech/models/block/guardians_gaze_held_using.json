@@ -1,15 +1,15 @@
 {
   "parent": "minecraft:block/block",
   "textures": {
-    "metal": "occultech:block/guardians_gaze_held_metal",
-    "grip": "occultech:block/guardians_gaze_held_grip",
-    "eye_north": "occultech:block/guardians_gaze_held_eye_north",
-    "eye_south": "occultech:block/guardians_gaze_held_eye_south",
-    "eye_west": "occultech:block/guardians_gaze_held_eye_west",
-    "eye_east": "occultech:block/guardians_gaze_held_eye_east",
-    "eye_up": "occultech:block/guardians_gaze_held_eye_up",
-    "eye_down": "occultech:block/guardians_gaze_held_eye_down",
-    "particle": "occultech:block/guardians_gaze_held_metal"
+    "metal": "occultech:block/guardians_gaze_held_using_metal",
+    "grip": "occultech:block/guardians_gaze_held_using_grip",
+    "eye_north": "occultech:block/guardians_gaze_held_using_eye_north",
+    "eye_south": "occultech:block/guardians_gaze_held_using_eye_south",
+    "eye_west": "occultech:block/guardians_gaze_held_using_eye_west",
+    "eye_east": "occultech:block/guardians_gaze_held_using_eye_east",
+    "eye_up": "occultech:block/guardians_gaze_held_using_eye_up",
+    "eye_down": "occultech:block/guardians_gaze_held_using_eye_down",
+    "particle": "occultech:block/guardians_gaze_held_using_metal"
   },
   "elements": [
     {
@@ -24,15 +24,6 @@
         9.2
       ],
       "shade": true,
-      "rotation": {
-        "origin": [
-          8,
-          8,
-          8
-        ],
-        "axis": "z",
-        "angle": -45
-      },
       "faces": {
         "north": {
           "texture": "#metal",
@@ -102,15 +93,6 @@
         8.8
       ],
       "shade": true,
-      "rotation": {
-        "origin": [
-          8,
-          8,
-          8
-        ],
-        "axis": "z",
-        "angle": -45
-      },
       "faces": {
         "north": {
           "texture": "#grip",
@@ -180,15 +162,6 @@
         9.5
       ],
       "shade": true,
-      "rotation": {
-        "origin": [
-          8,
-          8,
-          8
-        ],
-        "axis": "z",
-        "angle": -45
-      },
       "faces": {
         "north": {
           "texture": "#metal",
@@ -258,15 +231,6 @@
         8.9
       ],
       "shade": true,
-      "rotation": {
-        "origin": [
-          8,
-          8,
-          8
-        ],
-        "axis": "z",
-        "angle": -45
-      },
       "faces": {
         "north": {
           "texture": "#metal",
@@ -336,15 +300,6 @@
         10.1
       ],
       "shade": true,
-      "rotation": {
-        "origin": [
-          8,
-          8,
-          8
-        ],
-        "axis": "z",
-        "angle": -45
-      },
       "faces": {
         "north": {
           "texture": "#metal",
@@ -415,15 +370,6 @@
       ],
       "shade": true,
       "light_emission": 12,
-      "rotation": {
-        "origin": [
-          8,
-          8,
-          8
-        ],
-        "axis": "z",
-        "angle": -45
-      },
       "faces": {
         "north": {
           "texture": "#eye_north",
@@ -493,15 +439,6 @@
         5.8
       ],
       "shade": true,
-      "rotation": {
-        "origin": [
-          8,
-          8,
-          8
-        ],
-        "axis": "z",
-        "angle": -45
-      },
       "faces": {
         "north": {
           "texture": "#metal",
@@ -571,15 +508,6 @@
         6.4
       ],
       "shade": true,
-      "rotation": {
-        "origin": [
-          8,
-          8,
-          8
-        ],
-        "axis": "z",
-        "angle": -45
-      },
       "faces": {
         "north": {
           "texture": "#metal",
@@ -649,15 +577,6 @@
         5.8
       ],
       "shade": true,
-      "rotation": {
-        "origin": [
-          8,
-          8,
-          8
-        ],
-        "axis": "z",
-        "angle": -45
-      },
       "faces": {
         "north": {
           "texture": "#metal",
@@ -727,15 +646,6 @@
         6.4
       ],
       "shade": true,
-      "rotation": {
-        "origin": [
-          8,
-          8,
-          8
-        ],
-        "axis": "z",
-        "angle": -45
-      },
       "faces": {
         "north": {
           "texture": "#metal",
@@ -805,15 +715,6 @@
         11.2
       ],
       "shade": true,
-      "rotation": {
-        "origin": [
-          8,
-          8,
-          8
-        ],
-        "axis": "z",
-        "angle": -45
-      },
       "faces": {
         "north": {
           "texture": "#metal",
@@ -883,15 +784,6 @@
         10.5
       ],
       "shade": true,
-      "rotation": {
-        "origin": [
-          8,
-          8,
-          8
-        ],
-        "axis": "z",
-        "angle": -45
-      },
       "faces": {
         "north": {
           "texture": "#metal",
@@ -961,15 +853,6 @@
         11.2
       ],
       "shade": true,
-      "rotation": {
-        "origin": [
-          8,
-          8,
-          8
-        ],
-        "axis": "z",
-        "angle": -45
-      },
       "faces": {
         "north": {
           "texture": "#metal",
@@ -1039,15 +922,6 @@
         10.5
       ],
       "shade": true,
-      "rotation": {
-        "origin": [
-          8,
-          8,
-          8
-        ],
-        "axis": "z",
-        "angle": -45
-      },
       "faces": {
         "north": {
           "texture": "#metal",
@@ -1109,14 +983,14 @@
   "display": {
     "thirdperson_righthand": {
       "rotation": [
-        0,
         -90,
-        55
+        0,
+        0
       ],
       "translation": [
-        0,
-        4.0,
-        0.5
+        0.0,
+        -1.9,
+        -2.58
       ],
       "scale": [
         0.85,
@@ -1126,53 +1000,19 @@
     },
     "thirdperson_lefthand": {
       "rotation": [
+        -90,
         0,
-        90,
-        -55
+        0
       ],
       "translation": [
-        0,
-        4.0,
-        0.5
+        0.0,
+        -1.9,
+        -2.58
       ],
       "scale": [
         0.85,
         0.85,
         0.85
-      ]
-    },
-    "firstperson_righthand": {
-      "rotation": [
-        0,
-        -90,
-        25
-      ],
-      "translation": [
-        1.13,
-        3.2,
-        1.13
-      ],
-      "scale": [
-        0.68,
-        0.68,
-        0.68
-      ]
-    },
-    "firstperson_lefthand": {
-      "rotation": [
-        0,
-        90,
-        -25
-      ],
-      "translation": [
-        1.13,
-        3.2,
-        1.13
-      ],
-      "scale": [
-        0.68,
-        0.68,
-        0.68
       ]
     },
     "head": {
@@ -1190,6 +1030,40 @@
         1,
         1,
         1
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -60,
+        -10,
+        0
+      ],
+      "translation": [
+        1.5,
+        1.5,
+        -2
+      ],
+      "scale": [
+        0.68,
+        0.68,
+        0.68
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -60,
+        10,
+        0
+      ],
+      "translation": [
+        1.5,
+        1.5,
+        -2
+      ],
+      "scale": [
+        0.68,
+        0.68,
+        0.68
       ]
     }
   }

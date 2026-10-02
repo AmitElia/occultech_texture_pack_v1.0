@@ -1,6 +1,23 @@
 {
   "model": {
-    "type": "minecraft:model",
-    "model": "occultech:item/frenzy_cleaver"
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": [
+          "gui",
+          "ground",
+          "fixed"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "occultech:item/frenzy_cleaver"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "occultech:block/frenzy_cleaver_held"
+    }
   }
 }

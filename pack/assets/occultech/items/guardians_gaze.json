@@ -16,8 +16,16 @@
       }
     ],
     "fallback": {
-      "type": "minecraft:model",
-      "model": "occultech:block/guardians_gaze_held"
+      "type": "minecraft:condition",
+      "property": "minecraft:using_item",
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "occultech:block/guardians_gaze_held"
+      },
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "occultech:block/guardians_gaze_held_using"
+      }
     }
   }
 }
