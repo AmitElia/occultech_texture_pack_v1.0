@@ -1,6 +1,24 @@
 {
   "model": {
-    "type": "minecraft:model",
-    "model": "occultech:item/lichs_phylactery"
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": [
+          "gui",
+          "ground",
+          "fixed",
+          "on_shelf"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "occultech:item/lichs_phylactery"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "occultech:block/lichs_phylactery_held"
+    }
   }
 }
