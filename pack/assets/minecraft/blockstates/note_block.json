@@ -1,0 +1,458 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "powered": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/note_block"
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "1",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/abyssal_altar",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "2",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/abyssal_lantern",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "3",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/arcane_altar",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "4",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/arcane_pedestal",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "5",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/bottled_gale",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "6",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/bound_altar",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "7",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/brood_egg",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "8",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/chiming_tile",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "9",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/ember_brazier",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "10",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/floor_sigil",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "11",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/frenzy_idol",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "12",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/guardian_eye",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "13",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/hollow_altar",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "14",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/hollow_assembler",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "15",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/initiate_altar",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "16",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/occult_forge"
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "17",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/occult_forge",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "18",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/occult_forge",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "19",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/occult_forge",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "20",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/occult_orrery",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "21",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/offering_bowl",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "22",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/pearl_bed",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "23",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/phantom_roost",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "24",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/prismatic_netherrack",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "1",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/resin_tile",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "2",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/rune_obelisk",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "3",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/servitor_nexus",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "4",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/servitor_shrine",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "5",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/soul_condenser",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "6",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/soulfire_brazier",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "7",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/tidal_tile",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "8",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/tidal_tile_v1",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "9",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/tidal_tile_v2",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "10",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/tidal_tile_v3",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "11",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/tidal_tile_v4",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "12",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/trophy_board",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "13",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/wind_chime",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "14",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/wisp_jar",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "0",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/note_block"
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "0|15|16|17|18|19|20|21|22|23|24",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/note_block"
+      }
+    },
+    {
+      "when": {
+        "instrument": "snare|hat|bass|flute|bell|guitar|chime|xylophone|iron_xylophone|cow_bell|didgeridoo|bit|banjo|pling|trumpet|trumpet_exposed|trumpet_oxidized|trumpet_weathered|zombie|skeleton|creeper|dragon|wither_skeleton|piglin|custom_head",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/note_block"
+      }
+    }
+  ]
+}

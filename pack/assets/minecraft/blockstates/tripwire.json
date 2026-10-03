@@ -1,0 +1,1386 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "attached": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ns"
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_n",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_n",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ne",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_n"
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ne",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ns"
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_nse",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_n",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ns",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ne",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_nse",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ne"
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_nse",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_nse"
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_nsew"
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ns"
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_n",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_n",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ne",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_n"
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ne",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ns"
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_nse",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_n",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ns",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ne",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_nse",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ne"
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_nse",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "west": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_nse"
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "west": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_nsew"
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "false",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/abyssal_glyph",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "false",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/abyssal_glyph_v1",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "false",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/abyssal_glyph_v2",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "false",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/abyssal_glyph_v3",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "false",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/bound_glyph",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "false",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/bound_glyph_v1",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "false",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/bound_glyph_v2",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "false",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/bound_glyph_v3",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "false",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/chalk_glyph",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "false",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/chalk_glyph_v1",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "false",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/chalk_glyph_v2",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "false",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/chalk_glyph_v3",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "false",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/hollow_glyph",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "false",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/hollow_glyph_v1",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "false",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/hollow_glyph_v2",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "false",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "occultech:block/hollow_glyph_v3",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "false",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_n",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "false",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_n",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "false",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ns",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "false",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ns",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "false",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ne",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "false",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ne",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "false",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_nse",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "false",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_nse",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "false",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ne",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "false",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ne",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "false",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_nse",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "false",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_nse",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "false",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_nse",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "false",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_nse",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "false",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_nsew"
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "false",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_nsew"
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "true",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ns"
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "true",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ns"
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "true",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_n",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "true",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_n",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "true",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_n"
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "true",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_n"
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "true",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ne"
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "true",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ne"
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "true",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_n",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "true",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_n",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "true",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ne",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "true",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ne",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "true",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ns"
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "true",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ns"
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "true",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_nse"
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "true",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_nse"
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "true",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_n",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "true",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_n",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "true",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ns",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "true",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ns",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "true",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ne",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "true",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ne",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "true",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_nse",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "true",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_nse",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "true",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_ne",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "false",
+        "powered": "true",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_ne",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "true",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_nse",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "false",
+        "powered": "true",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_nse",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "true",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_nse",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "false",
+        "north": "true",
+        "powered": "true",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_nse",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "attached": "false",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "true",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_nsew"
+      }
+    },
+    {
+      "when": {
+        "attached": "true",
+        "disarmed": "true",
+        "east": "true",
+        "north": "true",
+        "powered": "true",
+        "south": "true",
+        "west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/tripwire_attached_nsew"
+      }
+    }
+  ]
+}
