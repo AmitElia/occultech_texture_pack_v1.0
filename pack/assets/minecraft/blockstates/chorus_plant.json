@@ -15,14 +15,6 @@
                 "down": "true"
               },
               {
-                "east": "false",
-                "north": "true",
-                "south": "true",
-                "west": "true",
-                "up": "false",
-                "down": "false"
-              },
-              {
                 "east": "true",
                 "north": "true",
                 "south": "true",
@@ -51,14 +43,6 @@
               },
               {
                 "down": "true"
-              },
-              {
-                "east": "false",
-                "north": "true",
-                "south": "true",
-                "west": "true",
-                "up": "false",
-                "down": "false"
               },
               {
                 "east": "true",
@@ -93,14 +77,6 @@
                 "down": "true"
               },
               {
-                "east": "false",
-                "north": "true",
-                "south": "true",
-                "west": "true",
-                "up": "false",
-                "down": "false"
-              },
-              {
                 "east": "true",
                 "north": "true",
                 "south": "true",
@@ -131,14 +107,6 @@
               },
               {
                 "down": "true"
-              },
-              {
-                "east": "false",
-                "north": "true",
-                "south": "true",
-                "west": "true",
-                "up": "false",
-                "down": "false"
               },
               {
                 "east": "true",
@@ -173,14 +141,6 @@
                 "down": "true"
               },
               {
-                "east": "false",
-                "north": "true",
-                "south": "true",
-                "west": "true",
-                "up": "false",
-                "down": "false"
-              },
-              {
                 "east": "true",
                 "north": "true",
                 "south": "true",
@@ -213,14 +173,6 @@
                 "down": "true"
               },
               {
-                "east": "false",
-                "north": "true",
-                "south": "true",
-                "west": "true",
-                "up": "false",
-                "down": "false"
-              },
-              {
                 "east": "true",
                 "north": "true",
                 "south": "true",
@@ -251,14 +203,6 @@
               },
               {
                 "down": "true"
-              },
-              {
-                "east": "false",
-                "north": "true",
-                "south": "true",
-                "west": "true",
-                "up": "false",
-                "down": "false"
               },
               {
                 "east": "true",
@@ -301,14 +245,6 @@
               },
               {
                 "down": "true"
-              },
-              {
-                "east": "false",
-                "north": "true",
-                "south": "true",
-                "west": "true",
-                "up": "false",
-                "down": "false"
               },
               {
                 "east": "true",
@@ -361,14 +297,6 @@
                 "down": "true"
               },
               {
-                "east": "false",
-                "north": "true",
-                "south": "true",
-                "west": "true",
-                "up": "false",
-                "down": "false"
-              },
-              {
                 "east": "true",
                 "north": "true",
                 "south": "true",
@@ -417,14 +345,6 @@
               },
               {
                 "down": "true"
-              },
-              {
-                "east": "false",
-                "north": "true",
-                "south": "true",
-                "west": "true",
-                "up": "false",
-                "down": "false"
               },
               {
                 "east": "true",
@@ -477,14 +397,6 @@
                 "down": "true"
               },
               {
-                "east": "false",
-                "north": "true",
-                "south": "true",
-                "west": "true",
-                "up": "false",
-                "down": "false"
-              },
-              {
                 "east": "true",
                 "north": "true",
                 "south": "true",
@@ -533,14 +445,6 @@
               },
               {
                 "down": "true"
-              },
-              {
-                "east": "false",
-                "north": "true",
-                "south": "true",
-                "west": "true",
-                "up": "false",
-                "down": "false"
               },
               {
                 "east": "true",
@@ -743,6 +647,20 @@
       },
       "apply": {
         "model": "occultech:block/soulfire_brazier",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "occultech:block/trophy_board",
         "y": 180
       }
     },
