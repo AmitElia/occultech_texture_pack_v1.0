@@ -22,66 +22,11 @@
     {
       "when": {
         "instrument": "harp",
-        "note": "2",
-        "powered": "true"
-      },
-      "apply": {
-        "model": "occultech:block/abyssal_lantern",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "instrument": "harp",
-        "note": "3",
-        "powered": "true"
-      },
-      "apply": {
-        "model": "occultech:block/arcane_altar",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "instrument": "harp",
-        "note": "4",
-        "powered": "true"
-      },
-      "apply": {
-        "model": "occultech:block/arcane_pedestal",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "instrument": "harp",
-        "note": "5",
-        "powered": "true"
-      },
-      "apply": {
-        "model": "occultech:block/bottled_gale",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "instrument": "harp",
         "note": "6",
         "powered": "true"
       },
       "apply": {
         "model": "occultech:block/bound_altar",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "instrument": "harp",
-        "note": "7",
-        "powered": "true"
-      },
-      "apply": {
-        "model": "occultech:block/brood_egg",
         "y": 180
       }
     },
@@ -126,28 +71,6 @@
       },
       "apply": {
         "model": "occultech:block/frenzy_idol",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "instrument": "harp",
-        "note": "12",
-        "powered": "true"
-      },
-      "apply": {
-        "model": "occultech:block/guardian_eye",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "instrument": "harp",
-        "note": "13",
-        "powered": "true"
-      },
-      "apply": {
-        "model": "occultech:block/hollow_altar",
         "y": 180
       }
     },
@@ -219,28 +142,6 @@
     {
       "when": {
         "instrument": "harp",
-        "note": "20",
-        "powered": "true"
-      },
-      "apply": {
-        "model": "occultech:block/occult_orrery",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "instrument": "harp",
-        "note": "21",
-        "powered": "true"
-      },
-      "apply": {
-        "model": "occultech:block/offering_bowl",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "instrument": "harp",
         "note": "22",
         "powered": "true"
       },
@@ -285,28 +186,6 @@
     {
       "when": {
         "instrument": "basedrum",
-        "note": "2",
-        "powered": "true"
-      },
-      "apply": {
-        "model": "occultech:block/rune_obelisk",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "instrument": "basedrum",
-        "note": "3",
-        "powered": "true"
-      },
-      "apply": {
-        "model": "occultech:block/servitor_nexus",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "instrument": "basedrum",
         "note": "4",
         "powered": "true"
       },
@@ -323,17 +202,6 @@
       },
       "apply": {
         "model": "occultech:block/soul_condenser",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "instrument": "basedrum",
-        "note": "6",
-        "powered": "true"
-      },
-      "apply": {
-        "model": "occultech:block/soulfire_brazier",
         "y": 180
       }
     },
@@ -400,6 +268,138 @@
       },
       "apply": {
         "model": "occultech:block/trophy_board",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "2",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/abyssal_lantern",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "3",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/arcane_altar",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "4",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/arcane_pedestal",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "5",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/bottled_gale",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "7",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/brood_egg",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "12",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/guardian_eye",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "13",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/hollow_altar",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "20",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/occult_orrery",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "harp",
+        "note": "21",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/offering_bowl",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "2",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/rune_obelisk",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "3",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/servitor_nexus",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "6",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/soulfire_brazier",
         "y": 180
       }
     },
