@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "occultech:item/rune_obelisk"
+    "model": "occultech:block/rune_obelisk"
   }
 }

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "occultech:item/bottled_gale"
+    "model": "occultech:block/bottled_gale"
   }
 }

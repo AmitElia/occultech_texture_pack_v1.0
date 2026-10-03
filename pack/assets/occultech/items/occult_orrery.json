@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "occultech:item/occult_orrery"
+    "model": "occultech:block/occult_orrery"
   }
 }

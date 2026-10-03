@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "occultech:item/wind_chime"
+    "model": "occultech:block/wind_chime"
   }
 }
