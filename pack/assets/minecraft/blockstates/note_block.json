@@ -395,6 +395,17 @@
     {
       "when": {
         "instrument": "basedrum",
+        "note": "12",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/trophy_board",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
         "note": "13",
         "powered": "true"
       },
@@ -411,17 +422,6 @@
       },
       "apply": {
         "model": "occultech:block/wisp_jar",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "instrument": "basedrum",
-        "note": "12",
-        "powered": "true"
-      },
-      "apply": {
-        "model": "occultech:block/trophy_board",
         "y": 180
       }
     },
