@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "occultech:frenzied"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "occultech:frenzied"
+      }
+    ]
+  }
+}
