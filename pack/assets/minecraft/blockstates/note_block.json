@@ -427,6 +427,171 @@
     },
     {
       "when": {
+        "instrument": "basedrum",
+        "note": "15",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/abyssal_lantern",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "16",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/arcane_altar",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "17",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/arcane_pedestal",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "18",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/bottled_gale",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "19",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/brood_egg",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "20",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/guardian_eye",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "21",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/hollow_altar",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "22",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/occult_orrery",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "23",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/offering_bowl",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "basedrum",
+        "note": "24",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/rune_obelisk",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "snare",
+        "note": "1",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/servitor_nexus",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "snare",
+        "note": "2",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/soulfire_brazier",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "snare",
+        "note": "3",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/trophy_board",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "snare",
+        "note": "4",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/wind_chime",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "instrument": "snare",
+        "note": "5",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "occultech:block/wisp_jar",
+        "y": 180
+      }
+    },
+    {
+      "when": {
         "instrument": "harp",
         "note": "0",
         "powered": "true"
@@ -438,7 +603,7 @@
     {
       "when": {
         "instrument": "basedrum",
-        "note": "0|15|16|17|18|19|20|21|22|23|24",
+        "note": "0",
         "powered": "true"
       },
       "apply": {
@@ -447,7 +612,17 @@
     },
     {
       "when": {
-        "instrument": "snare|hat|bass|flute|bell|guitar|chime|xylophone|iron_xylophone|cow_bell|didgeridoo|bit|banjo|pling|trumpet|trumpet_exposed|trumpet_oxidized|trumpet_weathered|zombie|skeleton|creeper|dragon|wither_skeleton|piglin|custom_head",
+        "instrument": "snare",
+        "note": "0|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24",
+        "powered": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/note_block"
+      }
+    },
+    {
+      "when": {
+        "instrument": "hat|bass|flute|bell|guitar|chime|xylophone|iron_xylophone|cow_bell|didgeridoo|bit|banjo|pling|trumpet|trumpet_exposed|trumpet_oxidized|trumpet_weathered|zombie|skeleton|creeper|dragon|wither_skeleton|piglin|custom_head",
         "powered": "true"
       },
       "apply": {
