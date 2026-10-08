@@ -10,10 +10,10 @@ other pack.
 | | |
 |---|---|
 | Download (what the server sends players) | `https://raw.githubusercontent.com/AmitElia/occultech_texture_pack_v1.0/main/occultech-pack.zip` |
-| SHA-1 | `315cd2c66b59d311de1f2f2be0177030ee891695` |
-| Size | 594 KiB |
+| SHA-1 | `0bcccdda57b46e85f5b67b039749678fcb89d3bf` |
+| Size | 631 KiB |
 | Item models | 127 (35 placed blocks with 3D skins) |
-| Textures | 522 (213 animated) |
+| Textures | 543 (233 animated) |
 | Pack format | 88 (Minecraft 26.2) |
 | Published | 2026-10-07 |
 
