@@ -1,0 +1,1 @@
+{"model":{"type":"composite","models":[{"type":"model","model":"bettermodel:model/occultech_witch_coven_cauldron_robe_lower_1","tints":[{"type":"custom_model_data","default":16777215}]},{"type":"model","model":"bettermodel:model/occultech_witch_coven_cauldron_robe_lower_2","tints":[{"type":"custom_model_data","default":16777215}]}]}}
