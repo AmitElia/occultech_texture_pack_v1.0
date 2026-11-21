@@ -1,0 +1,1 @@
+{"model":{"type":"composite","models":[{"type":"model","model":"bettermodel:model/occultech_heartwood_horror_hand_thin_1","tints":[{"type":"custom_model_data","default":16777215}]},{"type":"model","model":"bettermodel:model/occultech_heartwood_horror_hand_thin_2","tints":[{"type":"custom_model_data","default":16777215}]}]}}
